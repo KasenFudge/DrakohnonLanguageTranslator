@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Translator Logic\TranslatorLogic.csproj" />
+    <ProjectReference Include="..\TranslatorLogic\TranslatorLogic.csproj" />
   </ItemGroup>
 
 </Project>
