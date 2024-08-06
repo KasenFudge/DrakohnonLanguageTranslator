@@ -9,7 +9,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Drakohnon_Language_Translator
+namespace View
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -19,11 +19,12 @@ namespace Drakohnon_Language_Translator
         public MainWindow()
         {
             InitializeComponent();
+            DataContext = new 
         }
 
         public void TranslateText(object? sender, RoutedEventArgs e)
         {
-
+            
         }
     }
 }

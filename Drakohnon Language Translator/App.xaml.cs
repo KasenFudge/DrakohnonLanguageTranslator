@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace Drakohnon_Language_Translator
+namespace View
 {
     /// <summary>
     /// Interaction logic for App.xaml

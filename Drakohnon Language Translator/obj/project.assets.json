@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kasen\\Documents\\Personal Projects\\Drakohnon Language Translator\\Drakohnon Language Translator\\Drakohnon Language Translator.csproj",
-      "projectName": "Drakohnon Language Translator",
-      "projectPath": "C:\\Users\\Kasen\\Documents\\Personal Projects\\Drakohnon Language Translator\\Drakohnon Language Translator\\Drakohnon Language Translator.csproj",
+      "projectUniqueName": "C:\\Users\\Kasen\\Documents\\Personal Projects\\Drakohnon Language Translator\\Drakohnon Language Translator\\View.csproj",
+      "projectName": "View",
+      "projectPath": "C:\\Users\\Kasen\\Documents\\Personal Projects\\Drakohnon Language Translator\\Drakohnon Language Translator\\View.csproj",
       "packagesPath": "C:\\Users\\Kasen\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Kasen\\Documents\\Personal Projects\\Drakohnon Language Translator\\Drakohnon Language Translator\\obj\\",
       "projectStyle": "PackageReference",

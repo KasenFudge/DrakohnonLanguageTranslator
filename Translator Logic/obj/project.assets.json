@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kasen\\Documents\\Personal Projects\\Drakohnon Language Translator\\Translator Logic\\Translator Logic.csproj",
-      "projectName": "Translator Logic",
-      "projectPath": "C:\\Users\\Kasen\\Documents\\Personal Projects\\Drakohnon Language Translator\\Translator Logic\\Translator Logic.csproj",
+      "projectUniqueName": "C:\\Users\\Kasen\\Documents\\Personal Projects\\Drakohnon Language Translator\\Translator Logic\\TranslatorLogic.csproj",
+      "projectName": "TranslatorLogic",
+      "projectPath": "C:\\Users\\Kasen\\Documents\\Personal Projects\\Drakohnon Language Translator\\Translator Logic\\TranslatorLogic.csproj",
       "packagesPath": "C:\\Users\\Kasen\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Kasen\\Documents\\Personal Projects\\Drakohnon Language Translator\\Translator Logic\\obj\\",
       "projectStyle": "PackageReference",

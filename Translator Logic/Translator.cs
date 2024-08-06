@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace Translator_Logic
+namespace TranslatorLogic
 {
     public class Translator
     { 

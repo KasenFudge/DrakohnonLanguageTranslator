@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Translator_Logic
+namespace TranslatorLogic
 {
     /// <summary>
     /// Base level of the translator, as the language is translated by translating

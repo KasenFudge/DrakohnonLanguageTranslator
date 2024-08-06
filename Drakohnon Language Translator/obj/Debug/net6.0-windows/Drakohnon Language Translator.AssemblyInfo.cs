@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Drakohnon Language Translator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d21a9b570a9f6e52d19184a42cdd383d7b14865")]
 [assembly: System.Reflection.AssemblyProductAttribute("Drakohnon Language Translator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Drakohnon Language Translator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
