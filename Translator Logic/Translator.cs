@@ -24,7 +24,7 @@ namespace TranslatorLogic
             {
                 DrakohnonLetter dL = new DrakohnonLetter(s[i]);
                 result.Append(dL.ToString());
-                if (i + 1 < s.Length && Char.IsLetter(s[i+1]))
+                if (i + 1 < s.Length && (Char.IsLetter(s[i+1]) && Char.IsLetter(s[i])))
                 {
                     result.Append("-");
                 }

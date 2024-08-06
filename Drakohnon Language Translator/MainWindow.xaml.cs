@@ -8,6 +8,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using TranslatorLogic;
 
 namespace View
 {
@@ -19,12 +20,13 @@ namespace View
         public MainWindow()
         {
             InitializeComponent();
-            DataContext = new 
         }
 
         public void TranslateText(object? sender, RoutedEventArgs e)
         {
-            
+            Translator t = new Translator();
+            TranslationBlock.Text = t.Translate(InputBox.Text);
+            PronunciationBlock.Text = t.GetPronunciation(InputBox.Text);
         }
     }
 }
