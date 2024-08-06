@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Drakohnon Language Translator", "Drakohnon Language Translator\Drakohnon Language Translator.csproj", "{504691FD-DBED-4F73-808A-B611B866FE31}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E0D2A887-9530-4D71-90E7-7FCBD7A496E3} = {E0D2A887-9530-4D71-90E7-7FCBD7A496E3}
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Translator Logic", "Translator Logic\Translator Logic.csproj", "{E0D2A887-9530-4D71-90E7-7FCBD7A496E3}"
 EndProject

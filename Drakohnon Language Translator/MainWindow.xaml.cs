@@ -20,5 +20,10 @@ namespace Drakohnon_Language_Translator
         {
             InitializeComponent();
         }
+
+        public void TranslateText(object? sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

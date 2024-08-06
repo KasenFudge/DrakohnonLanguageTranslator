@@ -5,8 +5,20 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Drakohnon_Language_Translator"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="200" Width="550">
     <Grid>
-
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <TextBox Grid.Row="0" Grid.Column="0"/>
+        <TextBlock Grid.Row="0" Grid.Column="1"/>
+        <TextBlock Grid.Row="0" Grid.Column="2"/>
+        <Button Grid.Row="1" Grid.Column="0" Click="TranslateText">Translate</Button>
     </Grid>
 </Window>
