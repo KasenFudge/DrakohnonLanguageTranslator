@@ -30,9 +30,9 @@
         <TextBlock Grid.Row="0" Grid.Column="0" VerticalAlignment="Center">Enter Phrase Here</TextBlock>
         <TextBlock Grid.Row="0" Grid.Column="1" VerticalAlignment="Center">Translation</TextBlock>
         <TextBlock Grid.Row="0" Grid.Column="2" VerticalAlignment="Center">Pronunciation</TextBlock>
-        <TextBox Name="InputBox" Grid.Row="1" Grid.Column="0"/>
-        <TextBlock Name="TranslationBlock" Grid.Row="1" Grid.Column="1"/>
-        <TextBlock Name="PronunciationBlock" Grid.Row="1" Grid.Column="2"/>
+        <TextBox x:Name="InputBox" Grid.Row="1" Grid.Column="0"/>
+        <TextBlock x:Name="TranslationBlock" Grid.Row="1" Grid.Column="1"/>
+        <TextBlock x:Name="PronunciationBlock" Grid.Row="1" Grid.Column="2"/>
         <Button Grid.Row="2" Grid.ColumnSpan="3" Click="TranslateText">Translate</Button>
     </Grid>
 </Window>
