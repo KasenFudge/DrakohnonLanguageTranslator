@@ -15,19 +15,13 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_CC296F395CE945BDA8AB119E83A5404B"
+        "MsmKey" = "8:_3099234928DD48BAA67FDBDEBFF236A0"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_CEE35169217143A08059D3B0943096AB"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_FDBCB738FCA44E10BB42C78167B7CA7D"
+        "MsmKey" = "8:_3EA49B4B338D4DF09538A9E3BB2DD334"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -88,6 +82,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
     }
@@ -120,30 +122,10 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CC296F395CE945BDA8AB119E83A5404B"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3EA49B4B338D4DF09538A9E3BB2DD334"
             {
-            "SourcePath" = "8:..\\TranslatorLogic\\Translator.cs"
-            "TargetName" = "8:Translator.cs"
-            "Tag" = "8:"
-            "Folder" = "8:_7CC5C08831974D6AB41378A826886E41"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_FDBCB738FCA44E10BB42C78167B7CA7D"
-            {
-            "SourcePath" = "8:..\\TranslatorLogic\\DrakohnonLetter.cs"
-            "TargetName" = "8:DrakohnonLetter.cs"
+            "SourcePath" = "8:..\\..\\..\\..\\Downloads\\sea-dragon_38125.ico"
+            "TargetName" = "8:sea-dragon_38125.ico"
             "Tag" = "8:"
             "Folder" = "8:_7CC5C08831974D6AB41378A826886E41"
             "Condition" = "8:"
@@ -230,7 +212,7 @@
         "ARPHELPLINK" = "8:"
         "Title" = "8:Setup"
         "Subject" = "8:"
-        "ARPCONTACT" = "8:Kasenfudge06@gmail.com"
+        "ARPCONTACT" = "8:Kasen Fudge"
         "Keywords" = "8:"
         "ARPCOMMENTS" = "8:"
         "ARPURLINFOABOUT" = "8:"
@@ -337,7 +319,7 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_3C2E7E050FFE49CC881620F90B4250CB"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_D07BE1EA23974E85A8BADC458B3F6D4D"
             {
             "Name" = "8:Drakohnon Language Translator"
             "Arguments" = "8:"
@@ -345,10 +327,24 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_CEE35169217143A08059D3B0943096AB"
+            "Target" = "8:_3099234928DD48BAA67FDBDEBFF236A0"
+            "Folder" = "8:_242B4DB9DBEB4A3C8E21A81380FCA960"
+            "WorkingFolder" = "8:_7CC5C08831974D6AB41378A826886E41"
+            "Icon" = "8:_3EA49B4B338D4DF09538A9E3BB2DD334"
+            "Feature" = "8:"
+            }
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_DA70026D46FC4B9B8C66043F32699C84"
+            {
+            "Name" = "8:Drakohnon Language Translator"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:0"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_3099234928DD48BAA67FDBDEBFF236A0"
             "Folder" = "8:_4F9534D81F0444FCAF14C06BE28B9283"
             "WorkingFolder" = "8:_7CC5C08831974D6AB41378A826886E41"
-            "Icon" = "8:"
+            "Icon" = "8:_3EA49B4B338D4DF09538A9E3BB2DD334"
             "Feature" = "8:"
             }
         }
@@ -750,9 +746,9 @@
         }
         "ProjectOutput"
         {
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_CEE35169217143A08059D3B0943096AB"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_3099234928DD48BAA67FDBDEBFF236A0"
             {
-            "SourcePath" = "8:..\\View\\obj\\Debug\\net6.0-windows\\apphost.exe"
+            "SourcePath" = "8:..\\View\\obj\\Release\\net6.0-windows\\apphost.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_7CC5C08831974D6AB41378A826886E41"
