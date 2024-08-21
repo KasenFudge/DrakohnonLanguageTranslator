@@ -10,7 +10,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "View", "View\View.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TranslatorLogic", "TranslatorLogic\TranslatorLogic.csproj", "{E0D2A887-9530-4D71-90E7-7FCBD7A496E3}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{62D125F7-B9F6-4264-AE91-49D20083F0E4}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DrakohnonLanguageTranslatorSetup", "DrakohnonLanguageTranslatorSetup\Setup.vdproj", "{62D125F7-B9F6-4264-AE91-49D20083F0E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
