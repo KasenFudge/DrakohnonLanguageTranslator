@@ -26,7 +26,7 @@ When parsing the input `Kasen`, the translator isolates each letter and maps it 
 Running the application is entirely seamless and requires no complex setup configurations:
 
 1. Navigate to the **[Releases](https://github.com/KasenFudge/DrakohnonLanguageTranslator/releases)** section of this repository.
-2. Download the standalone `DrakohnonTranslator.exe` binary from the latest release assets.
+2. Download the standalone `DrakohnonLanguageTranslator.exe` binary from the latest release assets.
 3. Double-click the downloaded executable to launch and interact with the translator utility instantly.
 
 ---
