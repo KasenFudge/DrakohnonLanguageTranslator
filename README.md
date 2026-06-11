@@ -9,7 +9,9 @@ A lightweight desktop utility written in C# that tokenizes, maps, and translates
 This project was built to explore character-by-character string manipulation, custom data mapping, and parsing logic. The system ingests an English string, processes each character dynamically, and cross-references it with a defined linguistic mapping table to output the structured, phonetic equivalent of the language.
 
 ### Translation Logic Example
+
 When parsing the input `Kasen`, the translator isolates each letter and maps it to its designated phonetic component:
+
 * **K** ➔ `kE`
 * **a** ➔ `aw`
 * **s** ➔ `sE`
@@ -19,20 +21,13 @@ When parsing the input `Kasen`, the translator isolates each letter and maps it 
 
 ---
 
-## Installation & Setup
+## Installation & Quick Start
 
-To compile and launch the deployment installer for the translator utility, follow these steps:
+Running the application is entirely seamless and requires no complex setup configurations:
 
-1. Clone this repository to your local machine.
-2. Open the project solution in **Visual Studio**.
-3. Navigate to the `Setup` directory.
-4. Open and run the `Setup.vdproj` file to launch the Visual Studio Installer framework and build/install the executable environment.
-
-## Core Technical Features
-
-* **Custom Tokenization & Parsing:** Iterates through variable-length string inputs to handle single-character boundaries dynamically.
-* **Data Mapping:** Utilizes a systematic structural lookup (handling uppercase/lowercase variations) to accurately match the 26 English characters to their complex phonetic counterparts.
-* **String Architecture:** Efficiently manages string concatenation and formatting to output structured, hyphen-delimited translations.
+1. Navigate to the **[Releases](https://github.com/KasenFudge/DrakohnonLanguageTranslator/releases)** section of this repository.
+2. Download the standalone `DrakohnonTranslator.exe` binary from the latest release assets.
+3. Double-click the downloaded executable to launch and interact with the translator utility instantly.
 
 ---
 
